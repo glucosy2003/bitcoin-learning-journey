@@ -20,29 +20,37 @@ This repository documents my journey learning Bitcoin, open-source development, 
 ## Progress
 
 ### Btrust Builders Mastering Bitcoin Cohort
-    week 1.
+
+#### Week 1
 - [ ] Chapter 1 - Introduction
 - [ ] Chapter 2 - How Bitcoin Works
-    week 2.
+
+#### Week 2
 - [ ] Chapter 3 - Bitcoin Core: The Reference Implementation
 - [ ] Chapter 4 - Keys and Addresses
-    week 3.
+
+#### Week 3
 - [ ] Chapter 5 - Wallets Recovery
 - [ ] Chapter 6 - Transactions
-    week 4.
+
+#### Week 4
 - [ ] Chapter 7 - Authorization and Authentication
 - [ ] Chapter 8: Digital Signatures
-    week 5.
+
+#### Week 5
 - [ ] Chapter 9: Transaction Fees
 - [ ] Chapter 10: The Bitcoin Network
-    week 6.
+
+#### Week 6
 - [ ] Chapter 11: The Blockchain
 - [ ] Chapter 12: Mining and Consensus
-    week 7.
+
+#### Week 7
 - [ ] Chapter 13: Bitcoin Security
 - [ ] Chapter 14: Second-Layer Applications
-    week 8.
-- [ ] Pathway wrap-up and next steps 
+
+#### Week 8
+- [ ] Pathway wrap-up and next steps
 
 
 ## Repository Structure
