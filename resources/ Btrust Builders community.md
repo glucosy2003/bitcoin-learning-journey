@@ -1,0 +1,4 @@
+- [ ] Discord Live Sessions
+- [ ] Chaperones
+- [ ] Partener Discussions
+- [ ] group study sessions
