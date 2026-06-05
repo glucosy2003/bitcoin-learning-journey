@@ -58,3 +58,7 @@ resources/
 ## About Me
 
 I am a Nursing and Midwifery student and self-taught software developer from Malawi interested in Bitcoin, open-source development, and building technology that solves real-world problems.
+=======
+# bitcoin-learning-journey
+Documenting my Bitcoin learning journey through Btrust Builders, BitDevs Malawi, open-source development and self-learning approaches.
+>>>>>>> e3fa5419388ba0bfbf8f0e7f045f6651c7115cbe
